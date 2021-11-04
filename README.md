@@ -4,6 +4,7 @@
 - chromedriver (Web Driver for Chrome, should match with browser version)
 - geckodriver (Web driver for Firefox, should match with browser version)
 - Code Editor or IDE (Visual Studio Code, Pycharm). I am using Pycharm.
+- Pycarm Plugin: Intellibot (Robot Framework Support to autocomplete the keywords).
 
 ---
 
